@@ -1,6 +1,6 @@
 # Snow_ComputerScience_Club
 This is a GitHub repository for the Computer Science Club at Snow College. 
-<a href="/ClubGoals">Club Goals</a>
+<a href="/ClubGoals.pdf">Club Goals</a>
 
 <h3>Contact</h4>
 Join the discord for developement related discussions: https://discord.gg/ZQxsJcYMYk

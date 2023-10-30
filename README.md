@@ -22,7 +22,7 @@ Join the discord for developement related discussions: https://discord.gg/ZQxsJc
   <li>Have fun! Figure out the blazor app and what you can do with it! We will be putting your code on the navigation bar after we aprove your pull request.</li>
   <li>Some more tips </li>
     <ul>
-      <li>Put your images you want to display in the <code>www.root</code> folder.</li>
+      <li>Put your images you want to display in the <code>wwwroot</code> folder.</li>
       <li>This repository is made to create a learning enviorment. Although I cannot always catch copied code, I don't want you to create something that isn't yours and call it your own.</li>
       <li>If your code does not compile or stops the rest of the website to crash, it will not be added to our main program.</li>
       <li>After it is added, show it to your friends and family! This website is meant to show off your personal projects!</li>

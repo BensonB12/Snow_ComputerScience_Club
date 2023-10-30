@@ -29,7 +29,7 @@ Join the discord for developement related discussions: https://discord.gg/ZQxsJc
     </ul>
 </ul>
 
-<h3>Constraints</h3>
+<h3>Guidlines</h3>
 <ul>
   <li>Be appropriate, we will not be allowing anything on main if we do not find it appropriate for our Snow College Club.</li>
   <li>This repo is made for Snow College Students and others affiliated with it. </li>
